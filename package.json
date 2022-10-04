@@ -2,6 +2,7 @@
   "name": "goscrum",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JonathanCaliva.github.io/GOscrum",
   "proxy": "http://goscrum-api.alkemy.org/auth/register",
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -13,6 +14,7 @@
     "axios": "^0.27.2",
     "formik": "^2.2.9",
     "framer-motion": "^7.3.5",
+    "gh-pages": "^4.0.0",
     "msw": "^0.47.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
